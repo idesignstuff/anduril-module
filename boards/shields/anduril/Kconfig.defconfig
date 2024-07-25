@@ -1,3 +1,5 @@
+
+
 # Copyright (c) 2024 The ZMK Contributors
 # SPDX-License-Identifier: MIT
 
@@ -5,4 +7,4 @@
 // CONFIG_BT_GATT_ENFORCE_SUBSCRIPTION=n
 
 config ZMK_KEYBOARD_NAME
-	default "narsil"
+	default "anduril"
